@@ -2,7 +2,7 @@
 ![Holberton logo](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
 > Interview - Preparation
 
-## Description:bulb:
+## Description
 Interview Algorithm practice
 
 * Whiteboard
@@ -10,7 +10,7 @@ Interview Algorithm practice
 * Time complexity (Big O notation)
 * Searching algorithms
 
-## Technologies & Tools:computer:
+## Technologies & Tools
 
 - Git
 - Ubuntu
@@ -18,5 +18,3 @@ Interview Algorithm practice
 - Python
 - C
 - VirtualBox VM
-
----
